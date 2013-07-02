@@ -1,0 +1,10 @@
+.clearfix:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  line-height: 0;
+  font-size: 0;
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
